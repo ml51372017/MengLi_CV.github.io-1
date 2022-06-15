@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  font-family: Georgia, serif;
+  font-family: Times,"TimesNewRoman",serif;
   color: #000;
   background-color: #ffffff;
   text-align:left; /* for IE */
